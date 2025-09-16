@@ -63,6 +63,11 @@ header {
   cursor: pointer;
 }
 
+.menu-toggle ionicon{
+  color: white;
+  font-size: 20px;
+}
+
 /* Hero */
 .hero {
   background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://picsum.photos/1200/600?tech") no-repeat center center/cover;
@@ -213,6 +218,11 @@ footer {
   color: #007bff;
   font-size: 1.2rem;
 }
+
+.verified img{
+  width: 7px;
+  height: 7px;
+}
 .tagline {
   font-weight: 600;
   margin: 0.5rem 0;
@@ -253,3 +263,4 @@ footer {
     color: #fff;
   }
 }
+
