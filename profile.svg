@@ -1,0 +1,16 @@
+<!-- file: f-duotone.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" width="160" height="160" role="img" aria-label="F duotone">
+  <defs>
+    <linearGradient id="lg" x1="0" x2="1">
+      <stop offset="0" stop-color="#6EE7B7"/>
+      <stop offset="1" stop-color="#34D399"/>
+    </linearGradient>
+  </defs>
+  <rect width="160" height="160" rx="24" fill="#0f172a"/>
+  <!-- stylized F made from rectangles -->
+  <g transform="translate(30,28)">
+    <rect x="0" y="0" width="20" height="80" rx="4" fill="url(#lg)"/>
+    <rect x="20" y="0" width="56" height="20" rx="4" fill="#10B981"/>
+    <rect x="20" y="30" width="44" height="16" rx="4" fill="#059669"/>
+  </g>
+</svg>
