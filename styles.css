@@ -221,8 +221,8 @@ footer {
 }
 
 .image{
-  width: 20px;
-  height: 20px;
+  width: 25px;
+  height: 25px;
 }
 .tagline {
   font-weight: 600;
@@ -264,6 +264,7 @@ footer {
     color: #fff;
   }
 }
+
 
 
 
