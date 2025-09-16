@@ -219,7 +219,7 @@ footer {
   font-size: 1.2rem;
 }
 
-.verified img{
+.verified .image{
   width: 7px;
   height: 7px;
 }
@@ -263,4 +263,5 @@ footer {
     color: #fff;
   }
 }
+
 
