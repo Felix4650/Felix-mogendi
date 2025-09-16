@@ -171,7 +171,7 @@ footer {
   overflow: hidden;
   cursor: pointer;
   margin-left: 1rem;
-  border: 2px solid #007bff;
+  border: 2px solid #4CAF50;
 }
 .profile-icon img {
   width: 100%;
@@ -211,7 +211,7 @@ footer {
   height: 100px;
   border-radius: 50%;
   object-fit: cover;
-  border: 3px solid #007bff;
+  border: 3px solid #4CAF50;
   margin-bottom: 1rem;
 }
 .verified {
@@ -236,7 +236,7 @@ footer {
   display: inline-block;
   margin: 0 0.5rem;
   text-decoration: none;
-  color: #007bff;
+  color: #4CAF50;
   font-weight: bold;
 }
 .social-links a:hover {
@@ -263,6 +263,7 @@ footer {
     color: #fff;
   }
 }
+
 
 
 
